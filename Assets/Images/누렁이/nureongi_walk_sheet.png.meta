@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: aeb92b7df4011094b8d1032880a3ac53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3923720352654552604
+    second: nureongi_walk_sheet_0
+  - first:
+      213: -4925900391511507316
+    second: nureongi_walk_sheet_1
+  - first:
+      213: -5364745045337116486
+    second: nureongi_walk_sheet_2
+  - first:
+      213: 8476988746833826251
+    second: nureongi_walk_sheet_3
+  - first:
+      213: 4650120929521375698
+    second: nureongi_walk_sheet_4
+  - first:
+      213: 1153549893890988080
+    second: nureongi_walk_sheet_5
+  - first:
+      213: -5189878839041537933
+    second: nureongi_walk_sheet_6
+  - first:
+      213: -4521620642374947728
+    second: nureongi_walk_sheet_7
+  - first:
+      213: 2955796971128633416
+    second: nureongi_walk_sheet_8
+  - first:
+      213: -8388911007833288263
+    second: nureongi_walk_sheet_9
+  - first:
+      213: 3671189456424811114
+    second: nureongi_walk_sheet_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nureongi_walk_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 15
+        width: 239
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e11e06c0252c89c0800000000000000
+      internalID: -3923720352654552604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nureongi_walk_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 15
+        width: 229
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ebff441bfa3abb0800000000000000
+      internalID: -4925900391511507316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nureongi_walk_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 15
+        width: 232
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0f42e0ec89c85b0800000000000000
+      internalID: -5364745045337116486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nureongi_walk_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 15
+        width: 232
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1930c2a5054a570800000000000000
+      internalID: 8476988746833826251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nureongi_walk_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 15
+        width: 235
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d91bb6195c888040800000000000000
+      internalID: 4650120929521375698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nureongi_walk_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 15
+        width: 232
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038df08448b320010800000000000000
+      internalID: 1153549893890988080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nureongi_walk_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 15
+        width: 235
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378cc9b61b8d9f7b0800000000000000
+      internalID: -5189878839041537933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nureongi_walk_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 15
+        width: 233
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cea2a7bf9ff31c0800000000000000
+      internalID: -4521620642374947728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nureongi_walk_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 15
+        width: 234
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8483c4c4fa9150920800000000000000
+      internalID: 2955796971128633416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nureongi_walk_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 15
+        width: 235
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b19bbd72e9949b80800000000000000
+      internalID: -8388911007833288263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nureongi_walk_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 15
+        width: 237
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a3c5d1c5fa2f230800000000000000
+      internalID: 3671189456424811114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nureongi_walk_sheet_0: -3923720352654552604
+      nureongi_walk_sheet_1: -4925900391511507316
+      nureongi_walk_sheet_10: 3671189456424811114
+      nureongi_walk_sheet_2: -5364745045337116486
+      nureongi_walk_sheet_3: 8476988746833826251
+      nureongi_walk_sheet_4: 4650120929521375698
+      nureongi_walk_sheet_5: 1153549893890988080
+      nureongi_walk_sheet_6: -5189878839041537933
+      nureongi_walk_sheet_7: -4521620642374947728
+      nureongi_walk_sheet_8: 2955796971128633416
+      nureongi_walk_sheet_9: -8388911007833288263
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

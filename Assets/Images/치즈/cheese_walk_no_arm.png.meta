@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: caeb5298f35f7eb43a2e6542ec14b745
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4566084017916233423
+    second: cheese_walk_no_arm_0
+  - first:
+      213: 4062192079313128117
+    second: cheese_walk_no_arm_1
+  - first:
+      213: -582965505480145449
+    second: cheese_walk_no_arm_2
+  - first:
+      213: -4309682984346299925
+    second: cheese_walk_no_arm_3
+  - first:
+      213: 1114034191052594271
+    second: cheese_walk_no_arm_4
+  - first:
+      213: -5943834101857758507
+    second: cheese_walk_no_arm_5
+  - first:
+      213: -1016461326965419625
+    second: cheese_walk_no_arm_6
+  - first:
+      213: 633237534081257118
+    second: cheese_walk_no_arm_7
+  - first:
+      213: -5329892829232319421
+    second: cheese_walk_no_arm_8
+  - first:
+      213: 8479967163492247218
+    second: cheese_walk_no_arm_9
+  - first:
+      213: 1383447401523306980
+    second: cheese_walk_no_arm_10
+  - first:
+      213: 9050634402391903199
+    second: cheese_walk_no_arm_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cheese_walk_no_arm_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 15
+        width: 180
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc64c7ed83dfd5f30800000000000000
+      internalID: 4566084017916233423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_walk_no_arm_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 15
+        width: 174
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba4dd87c2ecf5830800000000000000
+      internalID: 4062192079313128117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_walk_no_arm_2
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 15
+        width: 174
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5cc8126f3e8e7f0800000000000000
+      internalID: -582965505480145449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_walk_no_arm_3
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 15
+        width: 172
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be15e7fc82ee034c0800000000000000
+      internalID: -4309682984346299925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_walk_no_arm_4
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 15
+        width: 174
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c5451c138d57f00800000000000000
+      internalID: 1114034191052594271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_walk_no_arm_5
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 15
+        width: 175
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d25aea4062438da0800000000000000
+      internalID: -5943834101857758507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_walk_no_arm_6
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 15
+        width: 178
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791dd4efecdc4e1f0800000000000000
+      internalID: -1016461326965419625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_walk_no_arm_7
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 15
+        width: 169
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e8b55ae26b9c800800000000000000
+      internalID: 633237534081257118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_walk_no_arm_8
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 15
+        width: 177
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344b4b6f5ba6806b0800000000000000
+      internalID: -5329892829232319421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_walk_no_arm_9
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 16
+        width: 183
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6aee6d435eea570800000000000000
+      internalID: 8479967163492247218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_walk_no_arm_10
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 15
+        width: 179
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1eb35f41ef23310800000000000000
+      internalID: 1383447401523306980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_walk_no_arm_11
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 15
+        width: 180
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbcf7269005a9d70800000000000000
+      internalID: 9050634402391903199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cheese_walk_no_arm_0: 4566084017916233423
+      cheese_walk_no_arm_1: 4062192079313128117
+      cheese_walk_no_arm_10: 1383447401523306980
+      cheese_walk_no_arm_11: 9050634402391903199
+      cheese_walk_no_arm_2: -582965505480145449
+      cheese_walk_no_arm_3: -4309682984346299925
+      cheese_walk_no_arm_4: 1114034191052594271
+      cheese_walk_no_arm_5: -5943834101857758507
+      cheese_walk_no_arm_6: -1016461326965419625
+      cheese_walk_no_arm_7: 633237534081257118
+      cheese_walk_no_arm_8: -5329892829232319421
+      cheese_walk_no_arm_9: 8479967163492247218
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

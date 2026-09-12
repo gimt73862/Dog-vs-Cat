@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: ef794593cc67ca44aac8b0cf6c062e42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2287722182441839794
+    second: huindungi_walk_no_arm_0
+  - first:
+      213: 6842626643106079026
+    second: huindungi_walk_no_arm_1
+  - first:
+      213: 6479317827248256421
+    second: huindungi_walk_no_arm_2
+  - first:
+      213: -7861168227541167697
+    second: huindungi_walk_no_arm_3
+  - first:
+      213: 7041132571376405232
+    second: huindungi_walk_no_arm_4
+  - first:
+      213: -157723584461677954
+    second: huindungi_walk_no_arm_5
+  - first:
+      213: -1166653979478198784
+    second: huindungi_walk_no_arm_6
+  - first:
+      213: -7071563818754503120
+    second: huindungi_walk_no_arm_7
+  - first:
+      213: 2531427799623882320
+    second: huindungi_walk_no_arm_8
+  - first:
+      213: -2219773554618735959
+    second: huindungi_walk_no_arm_9
+  - first:
+      213: 4267083329736553051
+    second: huindungi_walk_no_arm_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: huindungi_walk_no_arm_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 16
+        width: 238
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43d5c2cbc06040e0800000000000000
+      internalID: -2287722182441839794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huindungi_walk_no_arm_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 16
+        width: 233
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23126f89da4e5fe50800000000000000
+      internalID: 6842626643106079026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huindungi_walk_no_arm_2
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 16
+        width: 235
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5fcf72c392be950800000000000000
+      internalID: 6479317827248256421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huindungi_walk_no_arm_3
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 16
+        width: 239
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa152d5b52587e290800000000000000
+      internalID: -7861168227541167697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huindungi_walk_no_arm_4
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 16
+        width: 237
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fac255a4c027b160800000000000000
+      internalID: 7041132571376405232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huindungi_walk_no_arm_5
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 16
+        width: 233
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ad57f4c37afcdf0800000000000000
+      internalID: -157723584461677954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huindungi_walk_no_arm_6
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 16
+        width: 241
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006f76903663fcfe0800000000000000
+      internalID: -1166653979478198784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huindungi_walk_no_arm_7
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 16
+        width: 237
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e02a07c22ccdd90800000000000000
+      internalID: -7071563818754503120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huindungi_walk_no_arm_8
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 17
+        width: 239
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0565123fb20712320800000000000000
+      internalID: 2531427799623882320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huindungi_walk_no_arm_9
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 16
+        width: 237
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2e42386b7c131e0800000000000000
+      internalID: -2219773554618735959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huindungi_walk_no_arm_10
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 16
+        width: 234
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5230ff2ea9b73b30800000000000000
+      internalID: 4267083329736553051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      huindungi_walk_no_arm_0: -2287722182441839794
+      huindungi_walk_no_arm_1: 6842626643106079026
+      huindungi_walk_no_arm_10: 4267083329736553051
+      huindungi_walk_no_arm_2: 6479317827248256421
+      huindungi_walk_no_arm_3: -7861168227541167697
+      huindungi_walk_no_arm_4: 7041132571376405232
+      huindungi_walk_no_arm_5: -157723584461677954
+      huindungi_walk_no_arm_6: -1166653979478198784
+      huindungi_walk_no_arm_7: -7071563818754503120
+      huindungi_walk_no_arm_8: 2531427799623882320
+      huindungi_walk_no_arm_9: -2219773554618735959
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
